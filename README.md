@@ -1,4 +1,4 @@
-# slicing-ui-1
+# Slicing UI 1
 
 Design By Vlahadox
 
