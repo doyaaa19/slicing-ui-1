@@ -67,7 +67,7 @@ nav ul li a {
 .hero {
     height: 929px;
     background-color: var(--primary);
-    background-image: url('img/hero-bg-1.png'), url('img/hero-bg-2.png'), url('img/hero-bg-3.png');
+    background-image: url('../img/hero-bg-1.png'), url('../img/hero-bg-2.png'), url('../img/hero-bg-3.png');
     background-position: 100px 0px;
     background-repeat: no-repeat;
 }
@@ -368,7 +368,7 @@ nav ul li a {
 .contact {
     padding: 60px 0;
     background-color: var(--primary);
-    background-image: url('img/contact-bg.png');
+    background-image: url('../img/contact-bg.png');
     background-size: 55%;
     background-repeat: no-repeat;
     background-position: left;
